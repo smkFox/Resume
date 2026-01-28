@@ -49,8 +49,8 @@ Figma (Dashboard Design), HTML/CSS, Flutter
 
 ## Experience
 
-### **Data Analyst — Danfoss**  
-*Dec 2022 – Present*
+### **Data Analyst - Danfoss**  
+*Dec 2022 - Present*
 
 - Developed production analytics models to assess labor costs and optimize multi-stage manufacturing workflows, reducing product cost by **8.7%** and decreasing production date overruns by **38.4%**.
 - Built supplier performance reports, improving supplier interaction efficiency by **32.5%**.
@@ -62,8 +62,8 @@ Figma (Dashboard Design), HTML/CSS, Flutter
 
 ---
 
-### **Senior Supply Chain Manager — Metabo**  
-*Nov 2019 – Nov 2022*
+### **Senior Supply Chain Manager - Metabo**  
+*Nov 2019 - Nov 2022*
 
 - Led analytical work on supply chain and warehouse processes, including inventory management.
 - Developed operational reports and performed ad-hoc analysis to support logistics and inventory decisions.
@@ -75,16 +75,16 @@ Figma (Dashboard Design), HTML/CSS, Flutter
 ---
 
 ### **Earlier Experience**
-**Logistics Manager / Senior Logistics Manager — LX Pantos** (2013 – 2019)  
-**Logistics Assistant — Bourjois Paris** (2012 – 2013)
+**Logistics Manager / Senior Logistics Manager - LX Pantos** (2013 - 2019)  
+**Logistics Assistant - Bourjois Paris** (2012 - 2013)
 
 ---
 
 ## Education
 
-**Bachelor’s Degree — Management of Organization**  
+**Bachelor’s Degree - Management of Organization**  
 Moscow Academy of the Labor Market and Information Technology  
-2007 – 2012
+2007 - 2012
 
   </td>
   </tr>
