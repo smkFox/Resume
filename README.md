@@ -1,3 +1,19 @@
+<table>
+  <tr>
+    <td width="180" valign="top">
+      <img src="assets/photo.jpg" width="160" />
+    </td>
+    <td valign="top">
+
+### Vasiliy Korotaev  
+**Data Analyst | Manufacturing & Supply Chain Analytics**
+
+Data Analyst with 3+ years of experience in manufacturing and supply chain analytics, with strong expertise in Power BI, SQL-based ETL, and Python automation. I own the full analytics lifecycle for an on-premise Power BI Report Server environment — from working directly with stakeholders to define requirements, to building data models, ETL pipelines, and dashboards that support operational and strategic decision-making across procurement, production, logistics, quality control, and R&D.
+
+    </td>
+  </tr>
+</table>
+
 # Vasiliy Korotaev  
 **Data Analyst | Manufacturing & Supply Chain Analytics**
 
