@@ -4,8 +4,8 @@
       <img src="assets/photo.jpg" width="160" />
     </td>
     <td valign="top">
-      
-# Vasiliy Korotaev  
+
+### Vasiliy Korotaev  
 **Data Analyst | Manufacturing & Supply Chain Analytics**
 
 📍 GMT-3  
