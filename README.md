@@ -9,7 +9,7 @@
 
 ## About
 
-Data Analyst with 3+ years of experience in manufacturing and supply chain analytics, specializing in Power BI, SQL-based ETL, and Python automation. I own the full analytics lifecycle for an on-premise Power BI Report Server environment — from working directly with stakeholders to define requirements, to building data models, ETL pipelines, and dashboards that support operational and strategic decision-making across procurement, production, logistics, quality control, and R&D.
+Data Analyst with 3+ years of experience in manufacturing and supply chain analytics, specializing in Power BI, SQL-based ETL, and Python automation. I own the full analytics lifecycle for an on-premise Power BI Report Server environment - from working directly with stakeholders to define requirements, to building data models, ETL pipelines, and dashboards that support operational and strategic decision-making across procurement, production, logistics, quality control, and R&D.
 
 I actively drive automation and efficiency by developing Python-based and data-driven solutions, including ML-assisted approaches where applicable, to replace manual workflows. These include standalone tools for logistics and customs documentation and production planning models that surface bottlenecks across multi-stage manufacturing processes and help optimize workforce allocation. I introduced a company-wide reporting style guide adopted across all dashboards, mentor a junior analyst, and continuously raise the quality and impact of analytics within the organization.
 
