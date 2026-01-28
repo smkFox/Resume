@@ -86,6 +86,6 @@ Figma (Dashboard Design), HTML/CSS, Flutter
 Moscow Academy of the Labor Market and Information Technology  
 2007 – 2012
 
-    </td>
+  </td>
   </tr>
 </table>
