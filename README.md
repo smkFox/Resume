@@ -83,7 +83,7 @@ Figma (Dashboard Design), HTML/CSS, Flutter
 ## Education
 
 **Bachelor’s Degree - Management of Organization**  
-Moscow Academy of the Labor Market and Information Technology  
+Moscow Academy of Labor Market and Information Technologies (MARTIT) 
 2007 - 2012
 
   </td>
