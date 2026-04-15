@@ -27,13 +27,13 @@ With a background in supply chain and logistics, I bring strong domain expertise
 ## Skills
 
 **BI & Analytics:**  
-Power BI, Power BI Report Server, Power Query (ETL), Data Modeling, Data Visualization
+Power BI, DAX, Power BI Report Server, Power Query (ETL), Data Modeling, Data Visualization, Data Quality,  Data Modeling, Semantic Layer
 
 **Data & Querying:**  
 SQL, Ad-hoc Analysis
 
 **Programming:**  
-Python (Pandas, NumPy, Matplotlib), Automation Scripts
+Python (Pandas, NumPy, Matplotlib), Automation Scripts, Performance Optimization
 
 **Applied Analytics & ML:**  
 Data Science Fundamentals, ML-assisted Analytics
@@ -54,6 +54,8 @@ Figma (Dashboard Design), HTML/CSS, Flutter
 ### **Data Analyst - Danfoss**  
 *Dec 2022 - Present*
 
+- Design and maintain Power BI semantic models and SQL-based ETL pipelines for production and supply 
+chain analytics. 
 - Developed production analytics models to assess labor costs and optimize multi-stage manufacturing workflows, reducing product cost by **8.7%** and decreasing production date overruns by **38.4%**.
 - Built supplier performance reports, improving supplier interaction efficiency by **32.5%**.
 - Created a quality control performance report to calculate monthly worker efficiency ratings, directly supporting bonus and deduction decisions for production staff and contributing to a **14.3% reduction in product defect rate**.
