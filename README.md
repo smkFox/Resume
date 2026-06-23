@@ -43,7 +43,7 @@ SAP, Microsoft Dynamics NAV, 1C
 **Business Expertise:**  
 Supply Chain Management, Inventory Management, Procurement, Logistics Operations, Operational Performance Analysis
 
-**Additional Tools & Technologies:**
+**Additional Tools & Technologies:** 
 Figma, HTML/CSS, Flutter, Git, Microsoft Excel
 
 ---
@@ -80,7 +80,7 @@ Figma, HTML/CSS, Flutter, Git, Microsoft Excel
 ### **Earlier Experience**
 **Logistics Manager / Senior Logistics Manager - LX Pantos** 
 *Apr 2013 - Sep 2019*  
-**Logistics Assistant - Bourjois Paris**
+**Logistics Assistant - Bourjois Paris** 
 *Aug 2012 - Apr 2013*
 
 ---
