@@ -6,7 +6,7 @@
     <td valign="top">
 
 ### Vasiliy Korotaev  
-**Senior Data Analyst | Manufacturing & Supply Chain Analytics**
+**Data Analyst | Manufacturing & Supply Chain Analytics**
 
 📍 GMT-3  
 📧 korotaevvs@gmail.com  
