@@ -43,6 +43,9 @@ SAP, Microsoft Dynamics NAV, 1C
 **Business Expertise:**  
 Supply Chain Management, Inventory Management, Procurement, Logistics Operations, Operational Performance Analysis
 
+**Additional Tools & Technologies:**
+Figma, HTML/CSS, Flutter, Git, Microsoft Excel
+
 ---
 
 ## Experience
