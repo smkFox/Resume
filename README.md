@@ -16,7 +16,7 @@
 
 ## About
 
-Senior Data Analyst with 13+ years of combined experience across manufacturing, supply chain, logistics, procurement, and business analytics.
+Data Analyst with 13+ years of combined experience across manufacturing, supply chain, logistics, procurement, and business analytics.
 
 Over the last 3+ years, I have designed and delivered end-to-end analytics solutions using Power BI, SQL, and Python, helping organizations improve operational performance, reduce costs, and automate reporting processes.
 
