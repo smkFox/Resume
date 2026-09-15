@@ -54,8 +54,6 @@ My main interests include SQL, data modeling, Python automation, ETL, data quali
 
 **Technologies:** SQL, Power BI, DAX, Power Query, Python, Pandas
 
----
-
 ### Senior Supply Chain Manager — Metabo
 **Nov 2019 – Nov 2022 | Moscow, Russia**
 
@@ -69,8 +67,6 @@ My main interests include SQL, data modeling, Python automation, ETL, data quali
 
 **Technologies:** Power BI, Microsoft Excel, Microsoft Dynamics NAV
 
----
-
 ### Senior Logistics Manager — LX Pantos
 **Jun 2015 – Sep 2019 | Moscow, Russia**
 
@@ -82,8 +78,6 @@ My main interests include SQL, data modeling, Python automation, ETL, data quali
 
 **Key areas:** International Logistics, Multimodal Transportation, Operational Analysis, Cost Analysis, Process Coordination
 
----
-
 ### Logistics Manager — LX Pantos
 **Apr 2013 – Jun 2015 | Moscow, Russia**
 
@@ -93,8 +87,6 @@ My main interests include SQL, data modeling, Python automation, ETL, data quali
 - Prepared logistics documentation and operational reporting.
 
 **Key areas:** Logistics Operations, International Transportation, Customs Clearance, Operational Reporting
-
----
 
 ### Logistics Assistant — Bourjois Paris
 **Aug 2012 – Apr 2013 | Moscow, Russia**
@@ -118,18 +110,14 @@ The application follows an offline-first architecture using a local SQLite datab
 
 **Tech:** Flutter, Dart, SQLite, Drift, Firebase, Data Modeling
 
----
+### PRAAMS Fintech Investment Platform
+**Dec 2023 – Mar 2024**
 
-### Algorithmic Trading Bot
-**May 2026 – Aug 2026**
+Developed a Python-based solution for processing investment questionnaire data and generating personalized investor profiles.
 
-Developed a Python-based algorithmic trading project integrating with the Bybit API to collect, store, and analyze historical cryptocurrency market data.
+Transformed structured JSON data with Pandas and integrated the OpenAI API to generate personalized descriptions and investment recommendations based on predefined business logic.
 
-Built workflows for time-series data processing, local data storage, trading strategy evaluation, and backtesting, including performance analysis based on realized P&L and transaction fees.
-
-**Tech:** Python, Pandas, NumPy, SQLite, REST API, Time-Series Analysis
-
----
+**Tech:** Python, Pandas, JSON, OpenAI API, REST API, Data Processing
 
 ### E-commerce Price Monitoring
 **Mar 2024 – Jul 2024**
@@ -140,19 +128,6 @@ Implemented web scraping and browser automation, transformed collected data into
 
 **Tech:** Python, PostgreSQL, Selenium, Beautiful Soup, Web Scraping, ETL
 
----
-
-### PRAAMS Fintech Investment Platform
-**Dec 2023 – Mar 2024**
-
-Developed a Python-based solution for processing investment questionnaire data and generating personalized investor profiles.
-
-Transformed structured JSON data with Pandas and integrated the OpenAI API to generate personalized descriptions and investment recommendations based on predefined business logic.
-
-**Tech:** Python, Pandas, JSON, OpenAI API, REST API, Data Processing
-
----
-
 ### MOEX Financial Data Project
 **Nov 2022 – Mar 2023**
 
@@ -161,6 +136,15 @@ Developed a Python-based data processing solution for financial transaction data
 Processed and transformed raw interbank transaction data into structured datasets suitable for analysis and consumption by a frontend application.
 
 **Tech:** Python, Pandas, NumPy, Data Processing, Financial Data
+
+### Algorithmic Trading Bot
+**May 2026 – Aug 2026**
+
+Developed a Python-based algorithmic trading project integrating with the Bybit API to collect, store, and analyze historical cryptocurrency market data.
+
+Built workflows for time-series data processing, local data storage, trading strategy evaluation, and backtesting, including performance analysis based on realized P&L and transaction fees.
+
+**Tech:** Python, Pandas, NumPy, SQLite, REST API, Time-Series Analysis
 
 ---
 
