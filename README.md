@@ -6,12 +6,12 @@
     <td valign="top">
 
 ### Vasiliy Korotaev  
-**Data Analyst | SQL • Python • Power BI | Data Modeling & ETL**
+**Data Analyst | SQL • Python • Power BI | Data Modeling & ETL**  
 **Manufacturing • Supply Chain • Business Analytics | Based in Buenos Aires, Argentina**
 
 📍 GMT-3  
 📧 korotaevvs@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vasilii-korotaev/)
+🔗 [LinkedIn](https://www.linkedin.com/in/vasiliy-korotaev/)
 
 ---
 
