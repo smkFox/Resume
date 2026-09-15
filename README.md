@@ -70,18 +70,6 @@ PostgreSQL • SQLite • REST APIs • Git • Microsoft Excel • SAP • Micr
 **Tools:** Microsoft Excel • Microsoft Dynamics NAV
 
 
-### Senior Logistics Manager — LX Pantos
-**Jun 2015 – Sep 2019 | Moscow, Russia**
-
-- Managed international multimodal transportation across sea, rail, air, and road freight.
-- Coordinated end-to-end logistics processes involving carriers, customs brokers, warehouses, and customers.
-- Analyzed transportation routes, costs, delivery performance, and operational constraints to support logistics decisions.
-- Prepared operational reports and monitored key logistics performance indicators.
-- Coordinated customs clearance and international trade documentation.
-
-**Key areas:** International Logistics, Multimodal Transportation, Operational Analysis, Cost Analysis, Process Coordination
-
-
 ### Logistics Manager / Senior Logistics Manager — LX Pantos
 **Apr 2013 – Sep 2019 | Moscow, Russia**
 
