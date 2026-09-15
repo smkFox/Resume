@@ -7,7 +7,7 @@
 
 ### Vasiliy Korotaev  
 **Data Analyst | SQL • Python • Power BI | Data Modeling & ETL**  
-**Manufacturing • Supply Chain • Business Analytics | Based in Buenos Aires, Argentina**
+**Manufacturing • Supply Chain • Operations Analytics | Based in Buenos Aires, Argentina**
 
 📍 GMT-3  
 📧 korotaevvs@gmail.com  
@@ -17,23 +17,27 @@
 
 ## About
 
-I'm a Data Analyst with 3+ years of experience building end-to-end analytics solutions using SQL, Power BI, and Python, backed by more than 10 years of business experience across supply chain, logistics, procurement, and manufacturing.
+I'm a Data Analyst specializing in **manufacturing, supply chain, and operations analytics**, with 3+ years of hands-on experience in SQL, Power BI, and Python and more than 10 years of previous experience in supply chain and international logistics.
 
-My work goes beyond dashboards. I enjoy understanding how business processes work, identifying the right data and metrics, investigating problems, and turning complex operational data into practical analytical solutions.
+My background combines data analytics with hands-on understanding of real-world operations — from international logistics, transportation, and warehousing to manufacturing and supply chain processes. This allows me to understand the business processes behind the data, identify the right metrics, investigate inefficiencies, and turn complex operational data into practical analytical solutions.
 
-My main interests include SQL, data modeling, Python automation, ETL, data quality, and BI. Outside of my professional work, I build projects involving APIs, databases, web data collection, financial data analysis, AI integrations, and software development.
+My main areas of interest include **Manufacturing Analytics, Supply Chain Analytics, Operations Analytics, Business Intelligence, data modeling, ETL, and data-driven process improvement**.
 
 ---
 
 ## Core Skills
 
-**Data Analytics & BI:** SQL, Power BI, DAX, Power Query, Data Modeling, Data Visualization, KPI Development, Reporting Automation
+**Data Analytics & BI:**  
+SQL • Power BI • DAX • Power Query • Python • Pandas • Data Modeling • ETL/ELT • Data Warehousing • Data Visualization • KPI Development • Reporting Automation
 
-**Data Engineering & Automation:** Python, Pandas, ETL, Data Transformation, REST APIs, PostgreSQL, SQLite
+**Supply Chain & Operations Analytics:**  
+Supply Chain Analytics • Manufacturing Analytics • Operations Analytics • Logistics Analytics • Production Analytics • Inventory Analysis • Supplier Performance • Quality Analytics • Process Improvement
 
-**Business Analytics:** Manufacturing Analytics, Supply Chain Analytics, Production Analytics, Supplier Performance, Inventory & Quality Analytics
+**Supply Chain & Logistics:**  
+International Logistics • Multimodal Transportation • Warehousing • Import Operations • Customs Processes • Carrier Management • Transportation Cost Analysis
 
-**Tools:** Git, Linux, Microsoft Excel, SAP, Microsoft Dynamics NAV
+**Data & Tools:**  
+PostgreSQL • SQLite • REST APIs • Git • Microsoft Excel • SAP • Microsoft Dynamics NAV
 
 ---
 
@@ -43,29 +47,28 @@ My main interests include SQL, data modeling, Python automation, ETL, data quali
 **Dec 2022 – Jun 2026 | Remote**
 
 - Developed production analytics models to assess labor costs and optimize multi-stage manufacturing workflows, reducing product cost by **8.7%** and production date overruns by **38.4%**.
-- Created quality control analytics used for monthly welder performance ratings, contributing to a **14.3% reduction in product defect rate**.
-- Built supplier performance reporting, improving supplier interaction efficiency by **32.5%**.
 - Designed and maintained Power BI semantic models and data transformation workflows for production, supply chain, and supplier performance analytics.
+- Created quality control analytics used for monthly welders' efficiency ratings, contributing to a **14.3% reduction in product defect rate**.
 - Developed a Python-based tool for automated customs documentation preparation, reducing processing time from several days to a few hours and eliminating manual errors.
-- Introduced reporting standards and reusable dashboard components to improve consistency and scalability.
-- Mentored a junior analyst and supported improvements in reporting quality.
+- Introduced company-wide reporting standards and reusable dashboard components to improve consistency and scalability while mentoring a junior analyst.
 
-**Key areas:** Data Analysis, Business Intelligence, Data Modeling, Production Analytics, Supply Chain Analytics, Supplier Performance, Quality Analytics, Reporting Automation
+**Focus:** Manufacturing Analytics • Production Analytics • Supply Chain Analytics • Quality Analytics • BI • Process Automation
 
-**Technologies:** SQL, Power BI, DAX, Power Query, Python, Pandas
+**Tech:** SQL • Power BI • DAX • Power Query • Python • Pandas
+
 
 ### Senior Supply Chain Manager — Metabo
 **Nov 2019 – Nov 2022 | Moscow, Russia**
 
-- Conducted cargo flow analysis to determine the optimal warehouse location, reducing delivery time by **10%** and overall logistics costs by **11.7%**.
-- Performed supply chain, warehouse, and inventory analysis to support operational and management decisions.
-- Developed operational reporting and conducted ad-hoc analysis across logistics, inventory, and supply chain processes.
-- Managed import operations, customs documentation, HS code classification, certification, and related reporting.
-- Worked with business stakeholders and operational teams to identify process bottlenecks and improve supply chain performance.
+- Conducted cargo flow analysis to identify an optimal warehouse location, reducing delivery time by **10%** and overall logistics cost by **11.7%**.
+- Coordinated end-to-end import operations from Germany and China, including customs documentation, product specifications and certificates, warehouse receiving schedules, and shipment documentation in Microsoft Dynamics NAV.
+- Analyzed warehouse fulfillment discrepancies and customer claims, tracking picking errors and identifying recurring operational issues to improve order accuracy.
+- Evaluated carrier performance, transportation costs, and delivery times to optimize logistics routes and carrier selection.
 
-**Key areas:** Supply Chain Analytics, Inventory Analysis, Logistics Analytics, Operational Reporting, Process Improvement
+**Focus:** Supply Chain • Logistics Analytics • Warehouse Operations • Inventory & Fulfillment • Carrier Performance • Process Improvement
 
-**Technologies:** Power BI, Microsoft Excel, Microsoft Dynamics NAV
+**Tools:** Microsoft Excel • Microsoft Dynamics NAV
+
 
 ### Senior Logistics Manager — LX Pantos
 **Jun 2015 – Sep 2019 | Moscow, Russia**
@@ -78,24 +81,23 @@ My main interests include SQL, data modeling, Python automation, ETL, data quali
 
 **Key areas:** International Logistics, Multimodal Transportation, Operational Analysis, Cost Analysis, Process Coordination
 
-### Logistics Manager — LX Pantos
-**Apr 2013 – Jun 2015 | Moscow, Russia**
 
-- Coordinated international shipments and transportation documentation.
-- Managed customs clearance processes and worked with brokers, carriers, and customers.
-- Monitored shipment status, delivery schedules, transportation costs, and operational issues.
-- Prepared logistics documentation and operational reporting.
+### Logistics Manager / Senior Logistics Manager — LX Pantos
+**Apr 2013 – Sep 2019 | Moscow, Russia**
 
-**Key areas:** Logistics Operations, International Transportation, Customs Clearance, Operational Reporting
+- Managed end-to-end multimodal international logistics operations for B2B clients, coordinating ocean, rail, and road transportation from South Korea to destinations across Russia.
+- Coordinated shipment documentation, customs preparation, container handling, inland transportation, and delivery schedules across multiple stakeholders to ensure on-time delivery.
+- Served as a senior point of contact for clients and internal teams, resolving operational issues and participating in technical and commercial discussions with management and client stakeholders.
+
+**Focus:** International Logistics • Multimodal Transportation • B2B Operations • Stakeholder Management • Customs & Import Operations
+
 
 ### Logistics Assistant — Bourjois Paris
 **Aug 2012 – Apr 2013 | Moscow, Russia**
 
-- Supported logistics and import operations, including shipment and customs documentation.
-- Coordinated product certification and documentation required for import procedures.
-- Maintained operational records and supported day-to-day logistics processes.
+- Supported import operations from France by preparing transportation and customs documentation and maintaining product certification records.
 
-**Key areas:** Logistics Operations, Import Documentation, Product Certification
+**Focus:** Import Operations • Logistics Documentation • Customs Documentation • Product Certification
 
 ---
 
